@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my interests
 - 📫 How to reach me: Facebook as I don't really like social media
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I don't like taking pictures so the only pictures I have of myself are my prom pictures and childhood
+- ⚡ Fun fact: I don't like taking pictures so the only pictures I have of myself are my prom pictures and childhood pictures
 
