@@ -1,12 +1,12 @@
-### Hi there >:D 👋
+### Hi there >:D 👩🏾‍💻👋🏾
 
 <!--
 **Desireye/Desireye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting a degree in Software Engineering 
-- 🌱 I’m currently learning all aspects of Frontend Web Development 
+- 🔭 I’m currently working on getting a degree in Software Engineering
+- 🌱 I’m currently learning all aspects of Frontend Web Development and hopefully other aspects soon 
 - 👯 I’m looking to collaborate on all typesof projects to broaden my horizens and learn new things
 - 🤔 I’m looking for help with learning Java and Javascript
 - 💬 Ask me about my interests
