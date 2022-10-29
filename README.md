@@ -1,4 +1,4 @@
-Hi there >:D 👩🏾‍💻👋🏾
+Hi there, I'm Desire >:D 👩🏾‍💻👋🏾
 <!--
 **Desireye/Desireye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
